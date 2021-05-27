@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/sumos/static/js/app.34d09861.chunk.js",
-    "app.js.map": "/sumos/static/js/app.34d09861.chunk.js.map",
+    "app.js": "/sumos/static/js/app.955f0de6.chunk.js",
+    "app.js.map": "/sumos/static/js/app.955f0de6.chunk.js.map",
     "runtime~app.js": "/sumos/static/js/runtime~app.e208d727.js",
     "runtime~app.js.map": "/sumos/static/js/runtime~app.e208d727.js.map",
-    "static/js/2.730d4d40.chunk.js": "/sumos/static/js/2.730d4d40.chunk.js",
-    "static/js/2.730d4d40.chunk.js.map": "/sumos/static/js/2.730d4d40.chunk.js.map",
+    "static/js/2.7f53e6d9.chunk.js": "/sumos/static/js/2.7f53e6d9.chunk.js",
+    "static/js/2.7f53e6d9.chunk.js.map": "/sumos/static/js/2.7f53e6d9.chunk.js.map",
     "fonts/AntDesign.ttf": "/sumos/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/sumos/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/sumos/./fonts/Feather.ttf",
@@ -24,7 +24,7 @@
     "index.html": "/sumos/index.html",
     "manifest.json": "/sumos/manifest.json",
     "serve.json": "/sumos/serve.json",
-    "static/js/2.730d4d40.chunk.js.LICENSE.txt": "/sumos/static/js/2.730d4d40.chunk.js.LICENSE.txt",
+    "static/js/2.7f53e6d9.chunk.js.LICENSE.txt": "/sumos/static/js/2.7f53e6d9.chunk.js.LICENSE.txt",
     "static/media/bell.png": "/sumos/static/media/bell.cf04af27.png",
     "static/media/heart.png": "/sumos/static/media/heart.23b5c2c0.png",
     "static/media/rocket.png": "/sumos/static/media/rocket.d2f3bf41.png",
@@ -32,7 +32,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.e208d727.js",
-    "static/js/2.730d4d40.chunk.js",
-    "static/js/app.34d09861.chunk.js"
+    "static/js/2.7f53e6d9.chunk.js",
+    "static/js/app.955f0de6.chunk.js"
   ]
 }
