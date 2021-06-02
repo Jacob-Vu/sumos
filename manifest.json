@@ -1,6 +1,5 @@
 {
   "background_color": "#ffffff",
-  "description": "Example usage",
   "display": "standalone",
   "lang": "en",
   "name": "todo-app",
