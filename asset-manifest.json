@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/sumos/static/js/app.7ca0155b.chunk.js",
-    "app.js.map": "/sumos/static/js/app.7ca0155b.chunk.js.map",
+    "app.js": "/sumos/static/js/app.dca6b2bd.chunk.js",
+    "app.js.map": "/sumos/static/js/app.dca6b2bd.chunk.js.map",
     "runtime~app.js": "/sumos/static/js/runtime~app.e208d727.js",
     "runtime~app.js.map": "/sumos/static/js/runtime~app.e208d727.js.map",
-    "static/js/2.53759829.chunk.js": "/sumos/static/js/2.53759829.chunk.js",
-    "static/js/2.53759829.chunk.js.map": "/sumos/static/js/2.53759829.chunk.js.map",
+    "static/js/2.549f71a4.chunk.js": "/sumos/static/js/2.549f71a4.chunk.js",
+    "static/js/2.549f71a4.chunk.js.map": "/sumos/static/js/2.549f71a4.chunk.js.map",
     "fonts/AntDesign.ttf": "/sumos/./fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "/sumos/./fonts/Entypo.ttf",
     "fonts/Feather.ttf": "/sumos/./fonts/Feather.ttf",
@@ -24,12 +24,12 @@
     "index.html": "/sumos/index.html",
     "manifest.json": "/sumos/manifest.json",
     "serve.json": "/sumos/serve.json",
-    "static/js/2.53759829.chunk.js.LICENSE.txt": "/sumos/static/js/2.53759829.chunk.js.LICENSE.txt",
+    "static/js/2.549f71a4.chunk.js.LICENSE.txt": "/sumos/static/js/2.549f71a4.chunk.js.LICENSE.txt",
     "static/media/index.cjs": "/sumos/static/media/index.36ceb676.cjs"
   },
   "entrypoints": [
     "static/js/runtime~app.e208d727.js",
-    "static/js/2.53759829.chunk.js",
-    "static/js/app.7ca0155b.chunk.js"
+    "static/js/2.549f71a4.chunk.js",
+    "static/js/app.dca6b2bd.chunk.js"
   ]
 }
